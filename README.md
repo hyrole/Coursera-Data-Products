@@ -1,4 +1,4 @@
-# Mortgage Calculation
+# Mortgage Calculator
 
 ## Introduction
 
